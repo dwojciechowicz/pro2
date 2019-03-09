@@ -3,7 +3,7 @@
 #include <string>
 #include <stack>
 #include <algorithm>
-#include "Zespolona.h"
+#include "zespolona.h"
 
 using namespace std;
 
